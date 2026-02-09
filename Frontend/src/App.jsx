@@ -3,8 +3,6 @@ import Landing from './pages/Landing'
 import Manager from './pages/Manager'
 import AddNotes from './components/AddNotes'
 import AddBookmark from './components/AddBookmark'
-import UpdateNote from './components/updateNotes'
-import UpdateBookmark from './components/UpdateBookmark'
 import {Route,Routes } from 'react-router-dom'
 import ProtectedRoute from './components/ProtectedRoute'
 function App() {
